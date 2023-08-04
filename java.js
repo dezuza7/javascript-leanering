@@ -17,3 +17,9 @@ var b= 30;
 
 sum =a+b;
 console.log(sum);
+
+//substraction
+
+sub=a-b;
+console.log(sub);
+
